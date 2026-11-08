@@ -1,6 +1,6 @@
 Crow b1.2.9 ported to EaglercraftX 1.8
 The game file
-EB_Client_1.8.html (27 MB) the REAL port, compiled from Java through
+Crow_Client_1.8.html (27 MB) the REAL port, compiled from Java through
 TeaVM. Double-click it (or host it anywhere) and it runs in your browser:
 full Crow module set (KillAura family, Reach, Velocity, Speed/Fly, Scaffold,
 Blink, InvManager, ChestStealer, HUD/Keystrokes/Nametags/ESP/TargetHUD,
@@ -11,7 +11,7 @@ Crow_1.8_Overlay_Legacy.html is the older JS-overlay experiment
 (cosmetic only) was kept for reference, the new file supersedes it.
 
 Source / for rebuilding
-EB-Client-Eagler-Port.zip — the complete adapted source (~300 Java files),
+Crow-Client-Eagler-Port.zip — the complete adapted source (~300 Java files),
 the hook installer (tools/apply_port.py), and build docs (README.md
 inside). Build step for dummies: clone the EaglercraftX 1.8 repo → BuildTools.jar workspace → run apply_port → CompileJS.sh → CompileEPK.sh →
 MakeOfflineDownload.sh.
