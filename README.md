@@ -29,4 +29,5 @@ may repeat . On normal hardware-accelerated browsers this may be
 no issue.
 
 Notes
-I have a bunch of fixes made, hopefully out by Tuesday, November 10, 2026.
+Js waait till i come back from school. :D
+, November 10, 2026.
